@@ -1,4 +1,4 @@
-[test] (https://ibb.co/FVJPWbv)
+![test] (https://ibb.co/FVJPWbv)
 
 [Получаем контакт по id] (https://ibb.co/dDHMRf1)
 
