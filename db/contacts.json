@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cfbcae51-26ae-4389-a558-2c459e4b2ead",
+    "name": "Vova",
+    "email": "vova@gmail.com",
+    "phone": "111-11-11"
+  },
+  {
+    "id": "eee7826d-f6be-405d-ae80-604f9d61bec6",
+    "name": "Oksana",
+    "email": "oksana@gmail.com",
+    "phone": "111-11-12"
+  },
+  {
+    "id": "a9c714af-065a-4e7e-8f6d-36352f2eb577",
+    "name": "Sofiya",
+    "email": "sofiya@gmail.com",
+    "phone": "222-22-22"
+  }
+]
